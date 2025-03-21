@@ -4,7 +4,7 @@ import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBdykKdxVObEfRhXBan03inX5O8v8498-E",
-    authDomain: "chatappforsaas.duckdns.org",
+    authDomain: "chatapp-for-saas.firebaseapp.com",
     databaseURL: "https://chatapp-for-saas-default-rtdb.firebaseio.com/",
     projectId: "chatapp-for-saas",
     storageBucket: "chatapp-for-saas.appspot.com",
